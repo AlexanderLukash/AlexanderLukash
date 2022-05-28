@@ -11,8 +11,9 @@ My blog
 ![HTML](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python&logoColor=3772a2)
 ![HTML](https://img.shields.io/badge/-framework-070404?style=for-the-badge&logo=.net&logoColor=)
 ![HTML](https://img.shields.io/badge/-3dsmax-070404?style=for-the-badge&logo=Autodesk&logoColor=)
-![HTML](https://img.shields.io/badge/-substancepainter-070404?style=for-the-badge&logo=ParitySubstrate&logoColor=red)
-
+![HTML](https://img.shields.io/badge/-blender-070404?style=for-the-badge&logo=blender&logoColor=orenge)
+![HTML](https://img.shields.io/badge/-Vscode-070404?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)
+![HTML](https://img.shields.io/badge/-pycharm-070404?style=for-the-badge&logo=PyCharm&logoColor=green)
 
 
 
