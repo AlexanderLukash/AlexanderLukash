@@ -24,9 +24,9 @@
 <center> 
 
 [![HTML](https://img.shields.io/badge/-youtube-070404?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCOQwnxeAxfFTbEz6qdVFkrA)
-![HTML](https://img.shields.io/badge/-Instagram-070404?style=for-the-badge&logo=Instagram&logoColor=)
-![HTML](https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2)
-![HTML](https://img.shields.io/badge/-discord-070404?style=for-the-badge&logo=discord&logoColor=)
+[![HTML](https://img.shields.io/badge/-Instagram-070404?style=for-the-badge&logo=Instagram&logoColor=)]()
+[![HTML](https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2)](https://t.me/alexanderlukash)
+[![HTML](https://img.shields.io/badge/-discord-070404?style=for-the-badge&logo=discord&logoColor=)]()
 
 </center>
 
