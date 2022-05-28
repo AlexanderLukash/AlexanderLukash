@@ -1,7 +1,7 @@
 [![Header](https://github.com/AlexanderLukash/AlexanderLukash/blob/main/assets/logo.png)](https://www.youtube.com/channel/UCOQwnxeAxfFTbEz6qdVFkrA)
 
 ## **I am a beginner programmer and 3D modeler:wave:**
-
+---
 My blog
 
 ### **Languages and Tools:**
@@ -15,6 +15,12 @@ My blog
 ![HTML](https://img.shields.io/badge/-Vscode-070404?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)
 ![HTML](https://img.shields.io/badge/-pycharm-070404?style=for-the-badge&logo=PyCharm&logoColor=green)
 
+---
 
-
-Follow me
+### Follow Me:
+<p align="center"> 
+[![HTML](https://img.shields.io/badge/-youtube-070404?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCOQwnxeAxfFTbEz6qdVFkrA)
+![HTML](https://img.shields.io/badge/-Instagram-070404?style=for-the-badge&logo=Instagram&logoColor=)
+![HTML](https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2)
+![HTML](https://img.shields.io/badge/-discord-070404?style=for-the-badge&logo=discord&logoColor=)
+</p>
