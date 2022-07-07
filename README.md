@@ -2,7 +2,6 @@
 
 ## **I am a beginner programmer:wave:**
 ---
-
 ![Metrics](https://metrics.lecoq.io/AlexanderLukash?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&reactions=1&stargazers=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&stargazers.charts.type=chartist&config.timezone=Europe%2FMoscow)
 ___
 
