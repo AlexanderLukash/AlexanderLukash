@@ -1,7 +1,10 @@
 [![Header](https://github.com/AlexanderLukash/AlexanderLukash/blob/main/assets/logo.png)](https://www.youtube.com/channel/UCOQwnxeAxfFTbEz6qdVFkrA)
 
-## **I am a beginner programmer and 3D modeler:wave:**
+## **I am a beginner programmer:wave:**
 ---
+
+![Metrics](https://metrics.lecoq.io/AlexanderLukash?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FMoscow)
+___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderLukash&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=dark&card_width=295)](https://github.com/anuraghazra/github-readme-stats)
 
