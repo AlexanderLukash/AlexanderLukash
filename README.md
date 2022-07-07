@@ -1,8 +1,7 @@
 [![Header](https://github.com/AlexanderLukash/AlexanderLukash/blob/main/assets/logo.png)](https://www.youtube.com/channel/UCOQwnxeAxfFTbEz6qdVFkrA)
 
 ## **I am a beginner programmer:wave:**
----
-![Metrics](https://metrics.lecoq.io/AlexanderLukash?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&reactions=1&stargazers=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&stargazers.charts.type=chartist&config.timezone=Europe%2FMoscow)
+
 ___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderLukash&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=dark&card_width=295)](https://github.com/anuraghazra/github-readme-stats)
