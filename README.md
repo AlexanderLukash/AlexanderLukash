@@ -25,7 +25,7 @@ ___
 <center> 
 
 [![HTML](https://img.shields.io/badge/-youtube-070404?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCOQwnxeAxfFTbEz6qdVFkrA)
-[![HTML](https://img.shields.io/badge/-Instagram-070404?style=for-the-badge&logo=Instagram&logoColor=)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmemepedia.ru%2Fmaks-idi-naxuj%2F&psig=AOvVaw27pTgWd1rzrqDzNiKDgnsT&ust=1653974694774000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjqvt-9hvgCFQAAAAAdAAAAABAD)
+[![HTML](https://img.shields.io/badge/-Instagram-070404?style=for-the-badge&logo=Instagram&logoColor=)](https://instagram.com/ale.ks.ander_?igshid=OGQ5ZDc2ODk2ZA==)
 [![HTML](https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2)](https://t.me/llLukash)
 [![HTML](https://img.shields.io/badge/-discord-070404?style=for-the-badge&logo=discord&logoColor=)](https://discord.com/invite/e2HSn2kt7U)
 
