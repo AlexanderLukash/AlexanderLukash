@@ -1,6 +1,9 @@
+<h1 align="center">👋 Hello! I'm AlexanderLukash </h1>
+
 [![Header](https://github.com/AlexanderLukash/AlexanderLukash/blob/main/assets/logo.png)](https://www.youtube.com/channel/UCOQwnxeAxfFTbEz6qdVFkrA)
 
-## **I am a beginner programmer:wave:**
+## About me
+**I am a beginner programmer.** I'm developing in the field of web technologies, doing **back-end** and **python** development. I study the **front-end** and continue to improve my programming knowledge. I will be happy to **take part in your projects** to gain experience and develop myself as a programmer.
 
 ___
 
