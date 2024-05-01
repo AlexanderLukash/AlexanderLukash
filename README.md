@@ -13,15 +13,16 @@ ___
 ---
 
 ### **Languages and Tools:**
-
+![HTML](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-070404?style=for-the-badge&logo=HTML5)
 ![HTML](https://img.shields.io/badge/-CSS-070404?style=for-the-badge&logo=css3&logoColor=2965f1)
-![HTML](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python&logoColor=3772a2)
-![HTML](https://img.shields.io/badge/-framework-070404?style=for-the-badge&logo=.net&logoColor=)
-![HTML](https://img.shields.io/badge/-3dsmax-070404?style=for-the-badge&logo=Autodesk&logoColor=)
-![HTML](https://img.shields.io/badge/-blender-070404?style=for-the-badge&logo=blender&logoColor=orenge)
-![HTML](https://img.shields.io/badge/-Vscode-070404?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)
-![HTML](https://img.shields.io/badge/-pycharm-070404?style=for-the-badge&logo=PyCharm&logoColor=green)
+![HTML](https://img.shields.io/badge/-JS-070404?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-Django-070404?style=for-the-badge&logo=django)
+![HTML](https://img.shields.io/badge/-Fastapi-070404?style=for-the-badge&logo=fastapi)
+![HTML](https://img.shields.io/badge/-Postgres-070404?style=for-the-badge&logo=postgresql)
+![HTML](https://img.shields.io/badge/-Mysql-070404?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/-mongodb-070404?style=for-the-badge&logo=mongodb)
+![HTML](https://img.shields.io/badge/-Docker-070404?style=for-the-badge&logo=Docker)
 
 ---
 
