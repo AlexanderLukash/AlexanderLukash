@@ -33,11 +33,9 @@ ___
 
 ### Follow Me:
 <center> 
-
-[![HTML](https://img.shields.io/badge/-youtube-070404?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCOQwnxeAxfFTbEz6qdVFkrA)
-[![HTML](https://img.shields.io/badge/-Instagram-070404?style=for-the-badge&logo=Instagram&logoColor=)](https://instagram.com/ale.ks.ander_?igshid=OGQ5ZDc2ODk2ZA==)
+ 
 [![HTML](https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2)](https://t.me/llLukash)
-[![HTML](https://img.shields.io/badge/-discord-070404?style=for-the-badge&logo=discord&logoColor=)](https://discord.com/invite/e2HSn2kt7U)
+[![HTML](https://img.shields.io/badge/-linkedin-070404?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olexander-korovnichenko/)
 
 </center>
 
