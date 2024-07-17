@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm AlexanderLukash </h1>
  
-![Header](https://github.com/AlexanderLukash/AlexanderLukash/blob/main/assets/logo.png)
+![Header](https://github.com/AlexanderLukash/AlexanderLukash/blob/main/assets/logo6.png)
 
 
 ## About me
