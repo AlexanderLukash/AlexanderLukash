@@ -32,11 +32,11 @@ ___
 ---
 
 ### Follow Me:
-<center> 
+<div align="center">
  
-[![HTML](https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2)](https://t.me/llLukash)
-[![HTML](https://img.shields.io/badge/-linkedin-070404?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olexander-korovnichenko/)
+[![HTML](https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2)](https://t.me/lukashdev)
+[![HTML](https://img.shields.io/badge/-youtube-070404?style=for-the-badge&logo=youtube&logoColor=red)](https://t.me/lukashdev)
 
-</center>
+</div>
 
 ---
